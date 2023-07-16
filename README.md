@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on AI project which is face detection, attendance system.👯 I’m looking to collaborate on<br>🤝 I’m looking for job where i can use my skills set which mainly include AII,ML and Python<br>🌱 I’m currently learning deep learning<br>💬 Ask me about Machine learning, Deep learning<br>⚡ Fun fact-"Did you know that I once completed an entire week's worth of work in just one day? They say I have a superpower called 'hardworkus maximus'!"
+🔭 I’m currently working on AI project which is face detection, attendance system.<br>👯 I’m a fresher recently graduated from Guru Nanak Dev University <br>🤝 I’m looking for job where i can use my skills set which mainly include AII,ML and Python<br>🌱 I’m currently learning deep learning<br>💬 Ask me about Machine learning, Deep learning<br>⚡ Fun fact-"Did you know that I once completed an entire week's worth of work in just one day? They say I have a superpower called 'hardworkus maximus'!"
 
 
 ## 🌐 Socials:
